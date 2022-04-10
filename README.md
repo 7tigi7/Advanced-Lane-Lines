@@ -528,7 +528,7 @@ plt.imshow(lanesOnImg)
 ### Pipeline (video)
 [Detected Lanes with data]: ./examples/displayed.png "Detected Lanes with data"
 
-Here's a [link to my video result](./videos_output/project_videores.mp4)
+Here's a [link to my video result](./project_videores.mp4)
 
 ---
 
